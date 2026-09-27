@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
 
-import ApiError from "./ApiError.js";
+import ApiError from "./apiError.js";
 
 const JWT_ALGORITHM = "HS256";
 
